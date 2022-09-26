@@ -1,0 +1,13 @@
+asgiref==3.4.1
+certifi==2021.5.30
+charset-normalizer==2.0.5
+Django==4.0
+djangorestframework==3.12.4
+idna==3.2
+Pillow==9.2.0
+pyTelegramBotAPI==4.0.1
+python-decouple==3.6
+requests==2.26.0
+sqlparse==0.4.2
+tzdata==2021.5
+urllib3==1.26.6
